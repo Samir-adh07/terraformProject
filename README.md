@@ -1,4 +1,4 @@
-# terraformProject
+# terraformProject Hosting on AWS using terraform 
 
 # **Static Website Hosting on AWS using Terraform**  
 
